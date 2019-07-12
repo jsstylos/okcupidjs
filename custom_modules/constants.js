@@ -18,5 +18,7 @@ module.exports = {
     search: 'https://www.okcupid.com/1/apitun/match/search',
     edit_profile: 'https://www.okcupid.com/1/apitun/profile/save_essay',
     connections: 'https://www.okcupid.com/1/apitun/connections/outgoing',
-  }
+    user_questions: 'http://www.okcupid.com/1/apitun/profile/{username}/answers',
+  },
 }
+
